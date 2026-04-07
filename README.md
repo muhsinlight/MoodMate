@@ -101,10 +101,8 @@ MoodMate/
 └── package.json        # Bağımlılıklar ve scriptler
 ```
 
----
+
 
 ## Notlar
 
-- Uygulama tamamen **gizlilik odaklıdır**; verileriniz sunucuya değil, kendi bilgisayarınızdaki `data/` klasörüne kaydedilir.
-- `.gitignore` dosyası ile hassas verilerinizin (`.env`, `data/`) yanlışlıkla internete yüklenmesi engellenmiştir.
-- Temiz ve modüler kod yapısı ile geliştirilmeye açıktır.
+- Uygulama tamamen **gizlilik odaklıdır**; verileriniz sunucuya değil, kendi bilgisayarınızdaki `data/` klasörüne kaydedili
