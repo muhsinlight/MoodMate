@@ -6,7 +6,7 @@ Google'ın **Gemini AI** modelini kullanarak, belirlediğiniz kişilerin kişili
 
 ---
 
-## Ozellikler
+## Özellikler
 
 ### Gelismis Profil Yonetimi
 - Farklı kişiler için (Sevgili, Kanka, Anne vb.) ayrı profiller oluşturun.
@@ -18,10 +18,10 @@ Google'ın **Gemini AI** modelini kullanarak, belirlediğiniz kişilerin kişili
 - **Basari Gunlugu (Success Log)**: Hangi yaklaşımınızın işe yaradığını kaydedin. Kendi deneyimlerinizden oluşan kişisel bir "kullanım kılavuzu" oluşturun.
 - **Kisilik Bazli Taktikler**: Alıngan, inatçı veya esprili karakterlere özel yerleşik yaklaşım tavsiyeleri.
 
-### Gecmis Kaydi
+### Geçmiş Kaydi
 - Her kişi için üretilen tüm tavsiyeler (AI veya Yerel) ve mesajlar otomatik olarak kaydedilir.
 
-### Genisletilmis Bilgi Kutuphanesi
+### Genişletilmiş Bilgi Kutuphanesi
 - İnternet bağlantısı olmasa bile erişebileceğiniz; hobi, hediye, date fikirleri ve iletişim kuralları içeren zengin bir kütüphane.
 
 ### Yerel Depolama
